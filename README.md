@@ -1,5 +1,4 @@
 # Columbia-Robotics-Group-Project
--------------------------------------------
 # Gait Initiation Model with Disturbance Rejection
 
 This repository contains MATLAB/Simulink implementations of an inverted pendulum model for gait initiation, extending the work of Petrucci et al. (2018) with additional disturbance rejection capabilities.
@@ -298,6 +297,9 @@ The model demonstrates:
 2. Effective disturbance rejection
 3. Realistic simulation of Parkinson's disease effects
 4. Robust performance under various perturbations
+
+![IRB_results_it1-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/694464e3-59d7-47fe-ad90-3743a46a66c0)
+
 
 ## References
 
