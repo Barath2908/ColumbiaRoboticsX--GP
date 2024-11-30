@@ -4,6 +4,11 @@
 
 This repository contains MATLAB/Simulink implementations of an inverted pendulum model for gait initiation, extending the work of Petrucci et al. (2018) with additional disturbance rejection capabilities.
 
+![image](https://github.com/user-attachments/assets/86b9ea6d-0f90-4f8c-9ec9-89610775daff)
+
+![image](https://github.com/user-attachments/assets/2c416010-39c8-4d82-abcf-71b8e21120d3)
+
+
 ## Overview
 
 The model simulates anticipatory postural adjustments (APAs) during gait initiation, with particular focus on:
